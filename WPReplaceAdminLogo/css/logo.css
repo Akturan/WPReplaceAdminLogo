@@ -1,0 +1,10 @@
+.login #login h1 a {
+	background-image: url('../images/logo.png');
+	height: 85px;
+}
+.login #nav a, .login #backtoblog a {
+	color: #5ea4d7 !important;
+}
+.login #nav a:hover, .login #backtoblog a:hover {
+	color: #f3715d !important;
+}
